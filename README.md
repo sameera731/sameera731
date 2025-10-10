@@ -1,15 +1,20 @@
-
+![Views](https://komarev.com/ghpvc/?username=sameera731&color=ff69b4&style=flat-square)
 
 <div align="center">
-
-![Views](https://komarev.com/ghpvc/?username=sameera731&color=ff69b4&style=flat-square)
 
 ### Hey there 👋  
 I'm **Sameera**, but you can call me **Sam :)**
 
-<img src="https://github.com/user-attachments/assets/0f068d6c-40c8-4153-ab85-a4a3f4648e20" width="480" height="270" alt="Girl studying animation">
+🎓 I'm a **Computer Science undergraduate** who loves exploring the intersection of **math, logic, and technology**.  
+💻 I'm passionate about **software development** and curious about **emerging fields** like **AI**, **blockchain**, and **data systems**.  
+🚀 My aim is to keep learning, experimenting, and building projects that blend creativity with problem-solving.
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/0f068d6c-40c8-4153-ab85-a4a3f4648e20" width="480" alt="Girl studying animation">
 
 </div>
+
 
 
 
