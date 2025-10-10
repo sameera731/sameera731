@@ -1,7 +1,3 @@
-![Views](https://komarev.com/ghpvc/?username=sameera731&color=ff69b4&style=flat-square)
-
-<div align="center">
-
 ### Hey there 👋  
 I'm **Sameera**, but you can call me **Sam :)**
 
@@ -11,9 +7,14 @@ I'm **Sameera**, but you can call me **Sam :)**
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/0f068d6c-40c8-4153-ab85-a4a3f4648e20" width="480" alt="Girl studying animation">
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0f068d6c-40c8-4153-ab85-a4a3f4648e20" width="480" alt="Girl studying animation">
 </div>
+
+<br>
+
+![Views](https://komarev.com/ghpvc/?username=sameera731&color=ff69b4&style=flat-square)
+
 
 
 
