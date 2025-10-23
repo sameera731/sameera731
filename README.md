@@ -5,10 +5,9 @@ I'm **Sameera**, but you can call me **Sam :)**
 💻 I'm passionate about **software development** and curious about **emerging fields** like **AI**, **blockchain**, and **data systems**.  
 🚀 My aim is to keep learning, experimenting, and building projects that blend creativity with problem-solving.
 
-<br>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0f068d6c-40c8-4153-ab85-a4a3f4648e20" width="480" alt="Girl studying animation">
+  <img src="https://github.com/user-attachments/assets/dd455d01-27e0-42c5-a98e-2a2a5d395178" width="480" alt="Girl studying animation">
 </div>
 
 <br>
