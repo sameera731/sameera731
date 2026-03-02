@@ -12,6 +12,14 @@ I'm **Sameera**, but you can call me **Sam :)**
 
 <br>
 
+### Open Source Achievements:🏆🏅<br> <br>
+1. SWOC 2026 - Mentor [Managing and mentoring 10000+ contributors on multiple projects in AIML, Fullstack & Decentralized Systems & supervising repositories of multiple companies worldwide] <br>
+2. GSSoC 2025 - Top 150 Contributor Worldwide <br>
+3. Hacktoberfest 2025 - Became official SuperContributor of the Season <br>
+
+**Open Source Holopin Collection:** <br>
+[![An image of @sameera731's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sameera731)](https://holopin.io/@sameera731)
+
 ![Views](https://komarev.com/ghpvc/?username=sameera731&color=ff69b4&style=flat-square)
 
 
