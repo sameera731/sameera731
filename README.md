@@ -12,7 +12,7 @@ I'm **Sameera**, but you can call me **Sam :)**
 
 <br>
 
-### Open Source Achievements:🏆🏅<br> <br>
+### Open Source Achievements:🏆🏅<br> 
 1. SWOC 2026 - Mentor [Managing and mentoring 10000+ contributors on multiple projects in AIML, Fullstack & Decentralized Systems & supervising repositories of multiple companies worldwide] <br>
 2. GSSoC 2025 - Top 150 Contributor Worldwide <br>
 3. Hacktoberfest 2025 - Became official SuperContributor of the Season <br>
